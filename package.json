@@ -19,6 +19,6 @@
   "homepage": "https://gist.github.com/3a3a5f957a7a0c20547c078d380d27ff",
   "devDependencies": {
     "chai": "^4.2.0",
-    "mocha": "^7.0.0"
+    "mocha": "^10.2.0"
   }
 }
